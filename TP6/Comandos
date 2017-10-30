@@ -1,0 +1,6 @@
+(enable) show spanning-tree
+Buscar por Bridge ID.
+ctl + shift + 6
+show interface
+show mac-address-table
+show interfaces | i (.* line protocol is )|(.* address is)
